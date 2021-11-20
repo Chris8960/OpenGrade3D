@@ -1,6 +1,10 @@
 # OpenGrade3D
 
 Arduino .ino for using deere touch set valves 
-instead of another external valve.
+instead of another valve.
 
-To 
+More info can be found here.
+https://discourse.agopengps.com/t/grade-control/1702/377?u=chrisc
+
+This method should also work on CNH machines,
+but I do not know the pinout
